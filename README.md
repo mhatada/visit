@@ -1,4 +1,4 @@
-h2. Overseas
+## Overseas
 
 1. Aug. 1995 Hong Kong
 2. Feb. 1998 Thailand, Malyasia, Singapore
@@ -70,36 +70,37 @@ h2. Overseas
 67. Mar. 2018 USA (Washington D.C., New Jersy, New York)
 67. Jul. 2018 USA (Washington D.C., Las Vegas)
 
-h2. Japan
-Aug. 1997 Mt. Fuji
-Jul. 2001 Mt. Fuji
-Aug. 2002 Mt. Fuji
-Sep. 2002 Yakushima
-Aug. 2003 Northern Alps
-Aug. 2003 Mt. Fuji
-May 2004 Yaeyama Islands
-Aug. 2004 Mt. Fuji
-Sep. 2004 Kyoto
-Dec. 2004 Kumano Kodo
-May 2012 Iwami Ginzan
-Aug. 2012 Hatsushima
-Oct. 2012 Matsue
-Feb. 2013 Dogo-Onsen
-May 2013 Shirakami-Sanchi
-Aug. 2013 Hyogo, Osaka, Nara. Kyoto
-Oct. 2013 Takamatsu
-Nov. 2013 Ikaho
-May 2014 Beppu
-Jul. 2014 Hakodate
-Jul. 2014 Okinawa
-Oct. 2014 Sapporo
-Sep. 2015 Oyama Rice Terraces
-Oct. 2015 Nagasaki
-May 2016 Ise-Shima
-May 2016 Chichibu
-Aug. 2016 Naoshima
-Oct. 2016 Akita
-Aug. 2017 Karuizawa
-Oct. 2017 Yamagata
-Apr. 2018 Tomioka Silk Mill
-Aug. 2018 Nikko
+## Japan
+
+1. Aug. 1997 Mt. Fuji
+2. Jul. 2001 Mt. Fuji
+3. Aug. 2002 Mt. Fuji
+4. Sep. 2002 Yakushima
+5. Aug. 2003 Northern Alps
+6. Aug. 2003 Mt. Fuji
+7. May 2004 Yaeyama Islands
+8. Aug. 2004 Mt. Fuji
+9. Sep. 2004 Kyoto
+10. Dec. 2004 Kumano Kodo
+11. May 2012 Iwami Ginzan
+12. Aug. 2012 Hatsushima
+13. Oct. 2012 Matsue
+14. Feb. 2013 Dogo-Onsen
+15. May 2013 Shirakami-Sanchi
+16. Aug. 2013 Hyogo, Osaka, Nara. Kyoto
+17. Oct. 2013 Takamatsu
+18. Nov. 2013 Ikaho
+19. May 2014 Beppu
+20. Jul. 2014 Hakodate
+21. Jul. 2014 Okinawa
+22. Oct. 2014 Sapporo
+23. Sep. 2015 Oyama Rice Terraces
+24. Oct. 2015 Nagasaki
+25. May 2016 Ise-Shima
+26. May 2016 Chichibu
+27. Aug. 2016 Naoshima
+28. Oct. 2016 Akita
+29. Aug. 2017 Karuizawa
+30. Oct. 2017 Yamagata
+31. Apr. 2018 Tomioka Silk Mill
+32. Aug. 2018 Nikko
