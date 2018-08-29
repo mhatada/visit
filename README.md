@@ -1,69 +1,105 @@
-1. 1995年8月 香港
-2. 1998年2月 タイ、マレーシア、シンガポール
-3. 1999年2月 シンガポール、マレーシア、タイ、カンボジア、インドネシア
-4. 1999年8月 ボリビア、ペルー
-5. 2000年2月 イタリア、エジプト
-6. 2000年3月 フィリピン
-7. 2000年6月 韓国
-8. 2000年10月 メキシコ
-9. 2001年2月 ケニア、タンザニア、インド
-10. 2001年8月 香港、中国、チベット、ネパール
-11. 2002年3月 カナダ
-12. 2002年6月 アメリカ (グアム)
-13. 2002年6月 韓国
-14. 2002年7月 アメリカ
-15. 2002年10月 パキスタン
-16. 2003年2月 タイ、カンボジア
-17. 2003年3月 ニューカレドニア
-18. 2003年3月 中国 (北京)
-19. 2003年9月 オーストラリア
-20. 2005年7月 マレーシア (ボルネオ島)
-21. 2006年1月 UAE (ドバイ)
-22. 2006年7月 中国 (マカオ、香港)
-23. 2006年11月 アメリカ (オーランド)
-24. 2007年8月 アメリカ (ラスベガス)
-25. 2007年9月 アメリカ (ハワイ)
-26. 2008年5月 フランス (ニース)、モナコ
-27. 2010年7月 アメリカ (ラスベガス)
-28. 2011年3月 カナダ(バンクーバー)
-29. 2011年7月 アメリカ (フロリダ/ラスベガス)
-30. 2011年9月 サイパン
-31. 2011年10月 アメリカ (シリコンバレー)
-32. 2011年10月 アメリカ (フロリダ)
-33. 2012年3月 カナダ (バンクーバー)
-34. 2012年6月 シンガポール
-35. 2012年6月 アメリカ (シリコンバレー)
-36. 2012年7月 アメリカ (ラスベガス)
-37. 2012年11月 アメリカ (ラスベガス、サンタバーバラ)
-38. 2013年3月 カナダ (バンクーバー)
-39. 2013年5月 アメリカ (シリコンバレー)
-40. 2013年7月 アメリカ (ラスベガス)
-41. 2013年8月 スウェーデン (ヨーテボリ)
-42. 2014年1月 アメリカ (シリコンバレー)
-43. 2014年3月 カナダ (バンクーバー)
-44. 2014年7月 イスラエル (テルアビブ、エルサレム)
-45. 2014年8月 アメリカ (ラスベガス)
-46. 2014年11月 アメリカ (スコッツデール、アンテロープキャニオン)
-47. 2014年12月 アメリカ (ワシントンD.C.)
-48. 2015年1月 スウェーデン (ヨーテボリ)
-49. 2015年2月 アメリカ (シリコンバレー)
-50. 2015年3月 アメリカ (ワシントンD.C.)
-51. 2015年5月 台湾 (高雄)
-52. 2015年6月 ドイツ (ベルリン)
-53. 2015年8月 アメリカ (ラスベガス)
-54. 2015年8月 アメリカ (グアム)
-55. 2016年3月 カナダ (バンクーバー)
-56. 2016年4月 アメリカ (ケアリー)
-57. 2016年6月 韓国 (ソウル)
-58. 2016年7月 香港
-59. 2016年8月 アメリカ (ラスベガス)
-60. 2016年10月 アメリカ (シリコンバレー)
-61. 2016年12月 フィリピン (マニラ)
-62. 2017年1月 アメリカ (シアトル、ダラス、シリコンバレー)
-63. 2017年6月 プエルトリコ (サンフアン)
-64. 2017年7月 イタリア (トリノ)
-65. 2017年7月 アメリカ (ラスベガス)
-66. 2017年12月 台湾 (台北)
-67. 2018年1月 アメリカ (ダラス、シリコンバレー)
-67. 2018年3月 アメリカ (ワシントンDC、ニュージャージー)
-67. 2018年7月 アメリカ (ワシントンDC、ラスベガス)
+h2. Overseas
+
+1. Aug. 1995 Hong Kong
+2. Feb. 1998 Thailand, Malyasia, Singapore
+3. Feb. 1999 Singapore, Malaysia, Thailand, Cambodia, Indonesia
+4. Aug. 1999 Bolivia, Peru
+5. Feb. 2000 Italy, Egypt
+6. Mar. 2000 Philippines (Cebu)
+7. Jun. 2000 South Korea
+8. Oct. 2000 Mexico
+9. Feb. 2001 Kenya, Tanzania, India
+10. Aug. 2001 Hong Kong, China, Tibet, Nepal
+11. Mar. 2002 Canada
+12. Jun. 2002 USA (Guam)
+13. Jun. 2002 South Korea
+14. Jul. 2002 USA (Boston, Silicon Valley)
+15. Oct. 2002 Pakistan
+16. Feb. 2003 Thailand, Cambodia
+17. Mar. 2003 New Caledonia
+18. Mar. 2003 China (Beijing)
+19. Sep. 2003 Australia
+20. Jul. 2005 Malaysia (Borneo)
+21. Jan. 2006 UAE (Dubai)
+22. Jul. 2006 Macau、Hong Kong
+23. Nov. 2006 USA (Orlando)
+24. Aug. 2007 USA (Las Vegas)
+25. Sep. 2007 USA (Hawaii)
+26. May 2008 France (Nice)、Monaco
+27. Jul. 2010 USA (Las Vegas)
+28. Mar. 2011 Canada (Vancouver)
+29. Jul. 2011 USA (Florida, Las Vegas)
+30. Sep. 2011 USA (Saipan)
+31. Oct. 2011 USA (Silicon Valley)
+32. Oct. 2011 USA (Florida)
+33. Mar. 2012 Canada (Vancouver)
+34. Jun. 2012 Singapore
+35. Jun. 2012 Singapore (Silicon Valley)
+36. Jul. 2012 USA (Las Vegas)
+37. Nov. 2012 USA (Las Vegas, Santa Barbara)
+38. Mar. 2013 Canada (Vancouver)
+39. May 2013 USA (Silicon Valley)
+40. Jul. 2013 USA (Las Vegas)
+41. Aug. 2013 Sweden (Gothenburg)
+42. jan. 2014 USA (Silicon Valley)
+43. Mar. 2014 Canada (Vancouver)
+44. Jul. 2014 Israel (Tel Aviv, Jerusalem)
+45. Aug. 2014 USA (Las Vegas)
+46. Nov. 2014 USA (Scottsdale, Antelope Canyon)
+47. Dec. 2014 USA (Washington D.C.)
+48. Jan. 2015 Sweden (Gothenburg)
+49. Feb. 2015 USA (Silicon Valley)
+50. Mar. 2015 USA (Washington D.C.)
+51. May 2015 Taiwan (Kaohsiung)
+52. Jun. 2015 Germany (Berlin)
+53. Aug. 2015 USA (Las Vegas)
+54. Aug. 2015 USA (Guam)
+55. Mar. 2016 Canada (Vancouver)
+56. Apr. 2016 USA (Cary)
+57. Jun. 2016 South Korea
+58. Jul. 2016 Hong Kong
+59. Aug. 2016 USA (Las Vegas)
+60. Oct. 2016 USA (Silicon Valley)
+61. Dec. 2016 Philippins (Manila)
+62. Jan. 2017 USA (Seatle, Dallas, Silicon Valley)
+63. Jun. 2017 Puerto Rico (San Juan)
+64. Jul. 2017 Italy (Torino)
+65. Jul. 2017 USA (Las Vegas)
+66. Dec. 2017 Taiwan (Taipei)
+67. Jan. 2018 USA (Dallas, Silicon Valley)
+67. Mar. 2018 USA (Washington D.C., New Jersy, New York)
+67. Jul. 2018 USA (Washington D.C., Las Vegas)
+
+h2. Japan
+Aug. 1997 Mt. Fuji
+Jul. 2001 Mt. Fuji
+Aug. 2002 Mt. Fuji
+Sep. 2002 Yakushima
+Aug. 2003 Northern Alps
+Aug. 2003 Mt. Fuji
+May 2004 Yaeyama Islands
+Aug. 2004 Mt. Fuji
+Sep. 2004 Kyoto
+Dec. 2004 Kumano Kodo
+May 2012 Iwami Ginzan
+Aug. 2012 Hatsushima
+Oct. 2012 Matsue
+Feb. 2013 Dogo-Onsen
+May 2013 Shirakami-Sanchi
+Aug. 2013 Hyogo, Osaka, Nara. Kyoto
+Oct. 2013 Takamatsu
+Nov. 2013 Ikaho
+May 2014 Beppu
+Jul. 2014 Hakodate
+Jul. 2014 Okinawa
+Oct. 2014 Sapporo
+Sep. 2015 Oyama Rice Terraces
+Oct. 2015 Nagasaki
+May 2016 Ise-Shima
+May 2016 Chichibu
+Aug. 2016 Naoshima
+Oct. 2016 Akita
+Aug. 2017 Karuizawa
+Oct. 2017 Yamagata
+Apr. 2018 Tomioka Silk Mill
+Aug. 2018 Nikko
