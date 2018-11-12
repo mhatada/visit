@@ -67,8 +67,9 @@
 65. Jul. 2017 USA (Las Vegas)
 66. Dec. 2017 Taiwan (Taipei)
 67. Jan. 2018 USA (Dallas, Silicon Valley)
-67. Mar. 2018 USA (Washington D.C., New Jersy, New York)
-67. Jul. 2018 USA (Washington D.C., Las Vegas)
+68. Mar. 2018 USA (Washington D.C., New Jersy, New York)
+69. Jul. 2018 USA (Washington D.C., Las Vegas)
+70. Oct. 2018 USA (Alexandira, Washington D.C., Baltimore)
 
 ## Japan
 
