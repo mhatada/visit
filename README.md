@@ -70,6 +70,7 @@
 68. Mar. 2018 USA (Washington D.C., New Jersy, New York)
 69. Jul. 2018 USA (Washington D.C., Las Vegas)
 70. Oct. 2018 USA (Alexandira, Washington D.C., Baltimore)
+71. Feb. 2019 USA (Seattle)
 
 ## Japan
 
@@ -105,3 +106,4 @@
 30. Oct. 2017 Yamagata
 31. Apr. 2018 Tomioka Silk Mill
 32. Aug. 2018 Nikko
+33. Dec. 2018 Itsukushima Shrine and Atomic Bomb Dome 
