@@ -71,6 +71,7 @@
 69. Jul. 2018 USA (Washington D.C., Las Vegas)
 70. Oct. 2018 USA (Alexandira, Washington D.C., Baltimore)
 71. Feb. 2019 USA (Seattle)
+71. Mar. 2019 USA (Washington D.C.)
 
 ## Japan
 
