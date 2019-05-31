@@ -9,7 +9,7 @@
 7. Jun. 2000 South Korea
 8. Oct. 2000 Mexico
 9. Feb. 2001 Kenya, Tanzania, India
-10. Aug. 2001 Hong Kong, China, Tibet, Nepal
+10. Aug. 2001 Hong Kong, China, Tibet, [Nepal](https://github.com/mhatada/note/blob/master/20010909_kalapatthar.md)
 11. Mar. 2002 Canada
 12. Jun. 2002 USA (Guam)
 13. Jun. 2002 South Korea
@@ -71,7 +71,7 @@
 69. Jul. 2018 USA (Washington D.C., Las Vegas)
 70. Oct. 2018 USA (Alexandira, Washington D.C., Baltimore)
 71. Feb. 2019 USA (Seattle)
-71. Mar. 2019 USA (Washington D.C.)
+71. Mar. 2019 USA ([Gaithersburg](https://github.com/mhatada/note/blob/master/20190526_settle_in_the_us.md))
 
 ## Japan
 
@@ -107,4 +107,4 @@
 30. Oct. 2017 Yamagata
 31. Apr. 2018 Tomioka Silk Mill
 32. Aug. 2018 Nikko
-33. Dec. 2018 Itsukushima Shrine and Atomic Bomb Dome 
+33. Dec. 2018 Itsukushima Shrine and Atomic Bomb Dome
