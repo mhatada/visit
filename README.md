@@ -108,3 +108,7 @@
 31. Apr. 2018 Tomioka Silk Mill
 32. Aug. 2018 Nikko
 33. Dec. 2018 Itsukushima Shrine and Atomic Bomb Dome
+
+## World Heritage
+
+[external page](https://www.worldheritagesite.org/community/M.HATADA)
