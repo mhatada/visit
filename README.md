@@ -72,8 +72,8 @@
 70. Oct. 2018 USA (Alexandira, Washington D.C., Baltimore)
 71. Feb. 2019 USA (Seattle)
 72. Mar. 2019 USA ([Gaithersburg](https://github.com/mhatada/note/blob/master/20190526_settle_in_the_us.md))
-  01. Aug. 2019 USA (Las Vegas)
-  02. Aug. 2019 USA (New York City)
+    1. Aug. 2019 USA (Las Vegas)
+    2. Aug. 2019 USA (New York City)
 
 ## Japan
 
