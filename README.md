@@ -34,7 +34,7 @@
 32. Oct. 2011 USA (Florida)
 33. Mar. 2012 Canada (Vancouver)
 34. Jun. 2012 Singapore
-35. Jun. 2012 Singapore (Silicon Valley)
+35. Jun. 2012 USA (Silicon Valley)
 36. Jul. 2012 USA (Las Vegas)
 37. Nov. 2012 USA (Las Vegas, Santa Barbara)
 38. Mar. 2013 Canada (Vancouver)
@@ -74,6 +74,7 @@
 72. Mar. 2019 USA ([Gaithersburg](https://github.com/mhatada/note/blob/master/20190526_settle_in_the_us.md))
     1. Aug. 2019 USA (Las Vegas)
     2. Aug. 2019 USA (New York City)
+    3. Sep. 2019 USA (Dallas)
 
 ## Japan
 
