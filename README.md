@@ -76,6 +76,7 @@
     2. Aug. 2019 USA (New York City)
     3. Sep. 2019 USA (Dallas)
     4. Sep. 2019 USA (Yellowstone N.P. and Grand Teton N.P.)
+    5. Oct. 2019 USA (Atlanta)
 
 ## Japan
 
