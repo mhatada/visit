@@ -78,6 +78,7 @@
     4. Sep. 2019 USA (Yellowstone N.P. and Grand Teton N.P.)
     5. Oct. 2019 USA (Atlanta)
     6. Nov. 2019 Japan (Tokyo)
+    7. Dec. 2019 Japan (Tokyo)
 
 ## Japan
 
