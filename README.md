@@ -79,6 +79,7 @@
     5. Oct. 2019 USA (Atlanta)
     6. Nov. 2019 Japan (Tokyo)
     7. Dec. 2019 Japan (Tokyo)
+    8. Feb. 2020 USA (San Diego)
 
 ## Japan
 
