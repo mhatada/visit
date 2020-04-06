@@ -81,6 +81,7 @@
     7. Dec. 2019 Japan (Tokyo)
     8. Feb. 2020 USA (San Diego)
 	9. Mar. 2020 USA (Silicon Valley)
+	10. Apr. 2020 Japan (Tokyo)
 
 ## Japan
 
