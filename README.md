@@ -82,6 +82,7 @@
     8. Feb. 2020 USA (San Diego)
 	9. Mar. 2020 USA (Silicon Valley)
 	10. Apr. 2020 Japan (Tokyo)
+	11. Nov. 2020 USA (Fallingwater)
 
 ## Japan
 
