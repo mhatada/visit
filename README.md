@@ -84,6 +84,7 @@
 	10. Apr. 2020 Japan (Tokyo)
 	11. Nov. 2020 USA (Fallingwater)
 	12. Apr. 2021 USA ([Glacier Bay N.P., Alaska](https://github.com/mhatada/note/blob/master/20210530_glacier_bay.md))
+	13. Jul. 2021 Japan (Tokyo)
 
 ## Japan
 
