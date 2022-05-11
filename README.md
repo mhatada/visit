@@ -124,6 +124,7 @@
 31. Apr. 2018 Tomioka Silk Mill
 32. Aug. 2018 Nikko
 33. Dec. 2018 Itsukushima Shrine and Atomic Bomb Dome
+34. May 2022 Nirayama Reverbatory Furnaces
 
 ## World Heritage
 
