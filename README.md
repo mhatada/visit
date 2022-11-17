@@ -38,7 +38,7 @@
 36. Jul. 2012 USA (Las Vegas)
 37. Nov. 2012 USA (Las Vegas, Santa Barbara)
 38. Mar. 2013 Canada (Vancouver)
-39. May 2013 USA (Silicon Valley)
+39. Apr 2013 USA (Silicon Valley)
 40. Jul. 2013 USA (Las Vegas)
 41. Aug. 2013 Sweden (Gothenburg)
 42. jan. 2014 USA (Silicon Valley)
