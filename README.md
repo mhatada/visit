@@ -89,6 +89,7 @@
 	15. Sep. 2021 USA (Monticello and the University of Virginia in Charlottesville)
 	16. Oct. 2021 Japan (Tokyo)
 73. Feb. 2023 USA (San Francisco)
+74. Jun. 2023 USA (Chicago)
 
 
 ## Japan
