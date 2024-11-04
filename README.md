@@ -93,6 +93,7 @@
 75. Aug. 2023 USA (Las Vegas)
 76. Sep. 2023 Italy (Rome)
 77. Aug. 2024 USA (Las Vegas)
+78. Oct. 2024 USA (Redmond)
 
 ## Japan
 
