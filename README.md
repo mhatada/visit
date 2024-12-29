@@ -61,7 +61,7 @@
 59. Aug. 2016 USA (Las Vegas)
 60. Oct. 2016 USA (Silicon Valley)
 61. Dec. 2016 Philippins (Manila)
-62. Jan. 2017 USA (Seatle, Dallas, Silicon Valley)
+62. Jan. 2017 USA (Seattle, Dallas, Silicon Valley)
 63. Jun. 2017 Puerto Rico (San Juan)
 64. Jul. 2017 Italy (Torino)
 65. Jul. 2017 USA (Las Vegas)
@@ -131,6 +131,9 @@
 32. Aug. 2018 Nikko
 33. Dec. 2018 Itsukushima Shrine and Atomic Bomb Dome
 34. May 2022 Nirayama Reverbatory Furnaces
+35. Sep. 2022 Mount Tateshina
+36 Dec. 2023 Mount Tanzawa
+37 Dec. 2024 Tojinbo Cliffs
 
 ## World Heritage
 
