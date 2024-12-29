@@ -132,8 +132,8 @@
 33. Dec. 2018 Itsukushima Shrine and Atomic Bomb Dome
 34. May 2022 Nirayama Reverbatory Furnaces
 35. Sep. 2022 Mount Tateshina
-36 Dec. 2023 Mount Tanzawa
-37 Dec. 2024 Tojinbo Cliffs
+36. Dec. 2023 Mount Tanzawa
+37. Dec. 2024 Tojinbo Cliffs
 
 ## World Heritage
 
