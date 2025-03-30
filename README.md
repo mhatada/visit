@@ -96,6 +96,8 @@
 78. Oct. 2024 USA (Redmond)
 79. Mar. 2025 Greece (Athens)
 
+[Visited Places](https://visitedplaces.com/embed/?map=world&projection=geoNaturalEarth1&theme=dark-green&water=1&graticule=0&names=1&duration=2000&placeduration=100&slider=0&autoplay=1&autozoom=none&autostep=1&home=JP&places=My%20Home~JP~1_0_0_-137.8_-37.5*Europe~FR_DE_GR_IT_MC_SE~2.4_12.1_53.3_-12.1_-53.3*North%20America~CA_MX_PR_US~1.6_-100.6_44.4_100.6_-44.4*South%20America~BO_PE~1.5_-65.9_-20.1_65.9_20.1*Africa~EG_KE_TZ~1.5_18_1.6_-18_-1.6*Asia~KH_CN_HK_IN_ID_IL_JP.daaa44_MO_MY_NP_PK_PH_SG_KR_TW_TH_AE~1.5_83.8_33.3_-83.8_-33.3*Oceania~AU_GU_NC~1.9_134.3_-25.7_-134.3_25.7" style="width: 100%; height: 600px;)
+
 ## Japan
 
 1. Aug. 1997 Mt. Fuji
