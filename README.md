@@ -137,6 +137,8 @@
 37. Dec. 2024 Tojinbo Cliffs
 38. Jan. 2025 Mt. Tsukuba
 
+[経県値](https://uub.jp/j.cgi/jxcjrajyfhhcjqcjpqay/)
+
 ## World Heritage
 
 [external page](https://www.worldheritagesite.org/community/M.HATADA)
